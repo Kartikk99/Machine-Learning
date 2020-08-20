@@ -1,3 +1,4 @@
 This project helps in classification of my role model using their images.
 
 For face detection I have used Haar Cascade algoithm.
+For Datasets you need to create the folder and give it as input in the code.
