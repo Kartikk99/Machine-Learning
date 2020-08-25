@@ -1,0 +1,13 @@
+1. We will collect the Stock Data.
+2. Preprocess the Data.
+3. Create An Stacked LSTM model.
+4. Predict test data and plot output.
+5. Predict the future 30 days and plot output.
+
+Timeseries data---> 120, 121, 122, 130, 140, 134, 150	Test---> 160, 190, 154
+
+Timesteps= 3
+X_train      y_train
+
+120 121 122   130  
+121 122 130   140		Similarly for test data.
