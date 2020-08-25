@@ -1,2 +1,4 @@
 Using google teachable to develop the NN.
 Link: https://teachablemachine.withgoogle.com/
+
+Use Netron app to view model architecture from .hd5 file
